@@ -16,11 +16,11 @@
   DATA5 (Servo5)  ->   D7  
   Pin1 (todos Pot)->   5V  
   Pin3 (todos Pot)->   GND  
-  Pin2_1 (Pot1)   ->   A1  
-  Pin2_2 (Pot2)   ->   A2
-  Pin2_3 (Pot3)   ->   A3
-  Pin2_4 (Pot4)   ->   A4
-  Pin2_5 (Pot5)   ->   A5 
+  Pin2_1 (Pot1)   ->   A0  
+  Pin2_2 (Pot2)   ->   A1
+  Pin2_3 (Pot3)   ->   A2
+  Pin2_4 (Pot4)   ->   A3
+  Pin2_5 (Pot5)   ->   A4 
   --------------------------
   *Puede cambiar las conexiones a otros pines del arduino modificando las variables que definen los pines
  

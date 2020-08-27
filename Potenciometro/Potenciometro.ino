@@ -17,7 +17,7 @@
   Pin 2    ->   A0  
   Pin 3    ->   GND   
   ---------------
-  * El VCC del servo solo conectar a los 5V del Arduino si es un motor de poca corriente como el SG90, para otros servos usar una fuente externa
+  * El VCC del servo conectar a los 5V del Arduino solo si es un motor de poca corriente como el SG90, para otros servos usar una fuente externa
   **Puede cambiar las conexiones a otros pines del arduino modificando las variables que definen los pines
  
  Programa basado en el ejemplo Knob de la librería Servo
